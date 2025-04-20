@@ -1,7 +1,7 @@
 import fetchMenu from "./api.js";
 import { elements, renderCard } from "./ui.js";
 
-/
+
 
 document.addEventListener("DOMContentLoaded", async () => {
   // Apidan veri al
