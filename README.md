@@ -2,8 +2,6 @@
 
 A modern and responsive digital menu web application designed for restaurants, featuring food items like pizza, burgers, and more. Built with HTML, SCSS, and JavaScript, optimized for mobile users who access menus via QR codes.
 
-
-
 ## 🚀 Features
 
 - Responsive design optimized for mobile and tablet devices
